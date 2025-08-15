@@ -1,6 +1,6 @@
 # <Construcción de software 2>
 
-## <Lus del alva Herrera Holguin>
+ Lus del alva Herrera Holguin>
 
 ## <Tecnologías: Java, NetBeans, SpringBoot, Git>
 
